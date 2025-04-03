@@ -1,0 +1,13 @@
+{
+  "auth": {
+    "email": "[email protected]",
+    "password": "your_password"
+  },
+  "itinerary": {
+    "destination": "Paris",
+    "noofdays": "3",
+    "preferences": "Historical",
+    "season": "Winter",
+    "budget": "Mid-range"
+  }
+}
